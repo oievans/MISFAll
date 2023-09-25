@@ -1,0 +1,15 @@
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/mis221-lab4-oievans.csproj.AssemblyReference.cache
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/mis221-lab4-oievans.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/mis221-lab4-oievans.AssemblyInfoInputs.cache
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/mis221-lab4-oievans.AssemblyInfo.cs
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/mis221-lab4-oievans.csproj.CoreCompileInputs.cache
+/Users/oliveevans/MISFall/mis221-lab4-oievans/bin/Debug/net7.0/mis221-lab4-oievans
+/Users/oliveevans/MISFall/mis221-lab4-oievans/bin/Debug/net7.0/mis221-lab4-oievans.deps.json
+/Users/oliveevans/MISFall/mis221-lab4-oievans/bin/Debug/net7.0/mis221-lab4-oievans.runtimeconfig.json
+/Users/oliveevans/MISFall/mis221-lab4-oievans/bin/Debug/net7.0/mis221-lab4-oievans.dll
+/Users/oliveevans/MISFall/mis221-lab4-oievans/bin/Debug/net7.0/mis221-lab4-oievans.pdb
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/mis221-lab4-oievans.dll
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/refint/mis221-lab4-oievans.dll
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/mis221-lab4-oievans.pdb
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/mis221-lab4-oievans.genruntimeconfig.cache
+/Users/oliveevans/MISFall/mis221-lab4-oievans/obj/Debug/net7.0/ref/mis221-lab4-oievans.dll
